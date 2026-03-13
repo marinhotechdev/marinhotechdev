@@ -1,72 +1,69 @@
-### Olá! eu sou o Diogo Marinho! 🙋🏼‍♂️👋
+<p align="center">
+  <img src="assets/banner.png" alt="Diogo Marinho Banner" width="100%" />
+</p>
 
-### 
+# <p align="center">Olá, eu sou o Diogo Marinho! 🙋🏼‍♂️👋</p>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogoms/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBD_Jv9gPu3GlI8IlR0aDOQ)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer+Enthusiast;T%C3%A9cnico+em+TI+%40+F%C3%AAnix;Graduando+em+ADS;Focado+em+Java+%26+Python" alt="Typing SVG" />
+</p>
 
+---
 
-![Marinho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinhoDevTi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinhoDevTi)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Sobre Mim
 
+Sou um entusiasta de tecnologia apaixonado por resolver problemas através do código. Atualmente, atuo como **Técnico em TI na Fênix Tecnologia** e estou expandindo meus horizontes acadêmicos cursando **Tecnologia em Análise e Desenvolvimento de Sistemas**. 
 
-## 🚀 Skills
+- 🔭 **Atualmente:** Focado em aprimorar minhas habilidades em desenvolvimento backend.
+- 🌱 **Aprendendo:** Novas arquiteturas e padrões de design em Java e Python.
+- 💬 **Interesses:** Automação, infraestrutura e desenvolvimento web escalável.
+- 📫 **Contato:** No LinkedIn ou pelo e-mail.
 
-<div style="display: inline_block"><br/>
+---
 
+### 🛠️ Tecnologias & Ferramentas
 
-<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+#### 💻 Linguagens
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,md)](https://skillicons.dev)
 
-<img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+#### ⚙️ Infra & Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,github,powershell,bash)](https://skillicons.dev)
 
-<img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+#### 🐧 Sistemas Operacionais
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu)](https://skillicons.dev)
 
-<img aling="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinhoDevTi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinhoDevTi&layout=compact&langs_count=7&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinhoDevTi&theme=radical" />
+</p>
+
+---
+
+### 🤝 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,python,md" />
+  <a href="https://www.linkedin.com/in/diogoms/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCBD_Jv9gPu3GlI8IlR0aDOQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
-</div> </br>
+---
 
-## 💻 OS
-
-<div style="display: inline_block"><br/>
-<img aling="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
-<img aling="center" alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-
-<img aling="center" alt="Cent OS" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
-
-<img aling="center" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-
-<img aling="center" alt="Kali Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-</div> </br>
-
-## ⚙️ Ferramentas 
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,powershell,git,github,eclipse " />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinhoDevTi&theme=radical" alt="GitHub Streak" />
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-- 🔭 Atualmente sou técnico em TI na Fênix Tecnologia ...
-- 🌱 Estou cursando Técnologia em Análise e Desenvolvimento de Sistemas ...
-
-### Em construção ...
+<p align="center">
+  <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i>
+</p>
